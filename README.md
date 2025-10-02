@@ -1,6 +1,6 @@
 # Arduino Library for Texas Instruments ADS1118 - 16-Bit Analog-to-Digital Converter with internal Reference and Temperature Sensor
 
-This is an easy to use Arduino library for ADC Converter ADS1118
+This is an easy to use Arduino library for ADC Converter ADS1118. [datasheet](https://github.com/ADS1xxx-Series-ADC-Libraries/ADS1118/blob/master/ads1118.pdf)
 
 ## Getting Started
 
